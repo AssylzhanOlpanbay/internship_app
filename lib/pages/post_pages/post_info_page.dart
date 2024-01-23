@@ -41,7 +41,7 @@ class _PostInfoPageState extends State<PostInfoPage> {
                   style: const TextStyle(
                     fontSize: 22,
                     fontWeight: FontWeight.bold,
-                    color: Colors.black,
+                    color: Colors.red,
                   ),
                 ),
               ),
